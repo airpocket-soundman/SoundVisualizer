@@ -1,7 +1,7 @@
 # SoundVisualizer
 Sound visualization device using maixbit.  
 https://www.youtube.com/watch?v=WP3SPSRaIhk  
-https://elchika.com/article/af968c98-a6d0-41fa-8e09-291c43eddd40/  
+https://protopedia.net/prototype/2547  
 
 # Parts list
 maixbit  
