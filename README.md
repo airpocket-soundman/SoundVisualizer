@@ -10,6 +10,7 @@ lens
 https://ja.aliexpress.com/item/32804179806.html?gatewayAdapt=glo2jpn  
 AAA battery case x 2  
 Qi connector & cable (connect microbit to micarray)  
+Universal board  
 some cables(connect battery,toggle switch)  
 some screws  
 
