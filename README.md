@@ -1,5 +1,6 @@
 # SoundVisualizer
 Sound visualization device using maixbit.
+https://www.youtube.com/watch?v=WP3SPSRaIhk
 
 # Parts list
 maixbit  
