@@ -1,5 +1,5 @@
 # SoundVisualizer
-Sound visualization device using maixbit.  
+Sound visualization device using Sipeed MaixBit.  
 https://www.youtube.com/watch?v=WP3SPSRaIhk  
 https://protopedia.net/prototype/2547 
 https://hackaday.io/project/190651-portable-sound-visualization-device
